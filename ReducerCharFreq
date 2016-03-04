@@ -1,0 +1,20 @@
+
+public class ReducerCharFreq {
+
+	Iterate through the Mapper result
+	Identifies the first group of results with the same key
+	For each value of the key of the group total sum is calculated
+	Result is stored in the output as Key value pair
+	
+	
+}
+
+Output for the previous MApper result
+
+A,3
+C,1
+D,1
+E,1
+H,2
+N,1
+T,3
