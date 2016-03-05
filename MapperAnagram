@@ -11,3 +11,24 @@ public class MapperAnagram {
 	
 	Sort the file;
 }
+
+Sample output
+cat and the hat in tac
+
+Before Sorting
+
+act, cat
+adn, and
+eht, the
+aht, hat
+in, in
+act, tac
+
+After Sorting
+act, cat
+act, tac
+adn, and
+aht, hat
+eht, the
+in, in
+
