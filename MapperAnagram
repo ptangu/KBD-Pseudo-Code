@@ -1,0 +1,13 @@
+
+public class MapperAnagram {
+	Open the input file
+	Open a new output file
+	For each word in the file 
+	{
+		assign a variable a = sort the characters in the word in ascending order
+		add the (a, word) to the file
+		Continue iterating
+	}
+	
+	Sort the file;
+}
