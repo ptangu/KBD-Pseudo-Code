@@ -1,0 +1,8 @@
+
+public class ReducerAnagram {
+	ITerate through the Mapper result
+	Identifies the first group of results with the same key
+	For each value of the key combine the values
+	Result is stored in the output as Key value pair
+	
+}
